@@ -1,9 +1,9 @@
 			NASS CDS Dataset Analysis
 
-Team Members 
+Team Member
 ##############################
-	1. Sai Priya Sudhi reddy (RED ID:819923631)
-	2. Sreerag Sreenivasan (RED ID: 820911878)
+	Saisumanth Gopisetty
+	
 
 Project Description
 ##############################
